@@ -1,4 +1,4 @@
-#import "WKYTPlayerView.h"
+#import <YouTubeiOSPlayerHelper/WKYTPlayerView.h>
 
 @class RCTBridge;
 
